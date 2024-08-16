@@ -1,1 +1,1 @@
-https://www.codewars.com/dashboard
+https://www.codewars.com/
